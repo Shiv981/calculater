@@ -1,0 +1,27 @@
+.center{
+    text-align: center;
+  }
+  .mx-auto{
+    margin: auto ;
+  }
+  .flex{
+    display: flex;
+  }
+  .flex-col{
+    flex-direction: column;
+  }
+  .shi{
+    align-items: center;
+  }
+  .row input{
+    width:240px;
+    font-size:20px
+    margin:0;
+    padding:10px 0px;
+    padding:6px 38px;
+    border: 3px solid black;
+    border-radius: 10px;
+  }
+  .img{
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FImage&psig=AOvVaw0ECX7qCgYL4TX0vdsGwJfL&ust=1675014784428000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNjKjLvq6vwCFQAAAAAdAAAAABAE">
+  }
